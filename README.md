@@ -1,1 +1,1 @@
-# Intro-to-C-programming
+## Usefull resources introduced at OS191 IUST
